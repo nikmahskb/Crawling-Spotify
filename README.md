@@ -1,2 +1,2 @@
-# Scrawling-Spotify
-Melakukan scrawling spotify melalui API Spotify.
+# Crawling-Spotify
+Melakukan crawling spotify melalui API Spotify.
